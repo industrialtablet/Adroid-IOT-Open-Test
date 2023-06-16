@@ -50,3 +50,11 @@
 - RockChip RK3566
 - RockChip RK3288
 - Amlogic S905X4
+
+# Contacts
+
+- Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
+- E-mail: dennis@we-signage.com
+- MP/Whatsapp/Wechat: + 86 13349909990
+- Skype: solled686
