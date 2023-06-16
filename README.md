@@ -35,3 +35,18 @@
 - Recovery Support
 - Reset Support
 - Rstart Support
+
+## IotOpenTest Advenced features:
+- Upload test record to Cloud
+- Export test date from Cloud
+- Test with any Phone
+- Manager Devices
+- TestApp auto upgrade
+
+## IotOpenTest Supported CPU List:
+- RockChip RK3588
+- RockChip RK3568
+- RockChip RK3399
+- RockChip RK3566
+- RockChip RK3288
+- Amlogic S905X4
